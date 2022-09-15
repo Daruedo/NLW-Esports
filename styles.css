@@ -117,6 +117,7 @@ main section:nth-child(1) {
 
 main section:nth-child(2) {
     animation-delay: .4s;
+    color: red;
 }
 
 main section:nth-child(3) {
